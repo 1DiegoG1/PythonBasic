@@ -1,4 +1,4 @@
-# Basis Python Course
+# Basic Python Course
 In this repository, __I done__ all of *Platzi's Basic Python classes*.
 
 # What I learned?
